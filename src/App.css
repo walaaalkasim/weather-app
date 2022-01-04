@@ -1,0 +1,22 @@
+.temp_max {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 5px;
+}
+.single_data {
+  border: 1px solid;
+  height: 60vh;
+  text-align: center;
+  background-color: rgb(231, 210, 236);
+}
+.city {
+  background-color: rgb(187, 212, 212);
+  text-align: center;
+}
+.sun_rise_set {
+  background-color: rgb(221, 194, 194);
+  display: inline;
+}
+.container {
+  display: inline;
+}
